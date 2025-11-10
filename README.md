@@ -1,9 +1,9 @@
-# FleetCraft-Polymorphic-Vehicle-Registry
+# Car Rental Agency Application
 
 
 🚛 About the Project
 
-FleetCraft is a clean, interface-driven project focused on demonstrating polymorphism and the core concepts of multiple inheritance through interfaces in Java. We model three distinct types of vehicles—a Car, a Motorcycle, and a Truck—each with unique properties and behaviors, all while ensuring they adhere to a common Vehicle interface. It’s a textbook example of good OOP design for classifying diverse objects.
+FleetCraft is a clean, interface-driven project focused on demonstrating polymorphism and the core concepts of multiple inheritance through interfaces in Java. We model three distinct types of vehicles a Car, a Motorcycle, and a Truck each with unique properties and behaviors, all while ensuring they adhere to a common Vehicle interface. It’s a textbook example of good OOP design for classifying diverse objects.
 
 
 🔑 Architectural Highlights
